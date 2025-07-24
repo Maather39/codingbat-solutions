@@ -7,7 +7,7 @@ This repository contains Java solutions for all CodingBat problems.
 
 Each problem is:
 - Solved in its own Java class
-- Organized by category (warmup1, logic1, etc.)
+- Organized by category (warmup1)
 - Committed with a descriptive message
 - Submitted using GitHub feature branch + pull request workflow
 
