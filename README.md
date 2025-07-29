@@ -1,23 +1,34 @@
-# CodingBat Java Solutions
+📘 CodingBat Java Solutions
+This repository contains my complete Java solutions for all CodingBat practice problems. Each problem is implemented and committed following best practices in version control and clean code principles.
 
-This repository contains Java solutions for all CodingBat problems.
+📁 Folder Structure
+Each solution is:
 
-## 📁 Folder Structure
+Written in its own Java class
 
+Organized by topic/category (e.g., warmup1, array2, recursion1, etc.)
 
-Each problem is:
-- Solved in its own Java class
-- Organized by category (warmup1)
-- Committed with a descriptive message
-- Submitted using GitHub feature branch + pull request workflow
+Clearly committed with meaningful messages
 
-## ✅ Submission Workflow
+Pushed using the Git feature-branch workflow (branch → commit → pull request → merge)
 
-1. Solve the problem on [CodingBat Java](https://codingbat.com/java)
-2. Create a new branch: `git checkout -b warmup1-sleepIn`
-3. Add your solution in the right folder
-4. Commit and push:
-5. Create a Pull Request and merge after approval
-6. Repeat for each problem
+✅ Submission Workflow
+Chose a problem from CodingBat Java
 
+Solved the problem on the platform until all test cases passed
 
+Created a feature branch:
+git checkout -b warmup1-sleepIn
+
+Added the solution to the correct folder and Java file
+
+Committed with a clear message:
+git commit -m "Add solution for warmup1-sleepIn"
+
+Pushed the branch and opened a Pull Request
+
+Merged the solution to the main branch after review
+
+Repeated the same process for each problem
+
+💡 This repository is part of my Java learning journey and showcases my problem-solving skills using clean and organized code.
